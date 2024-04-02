@@ -7,7 +7,6 @@
         {{ prato.strMeal }}
         <img :src="prato.strMealThumb" alt="">
       </li>
-      {{  refeicoes}}
     </ul>
   </div>
 </template>
